@@ -1,0 +1,12 @@
+[
+  {
+    "icon": "bx bx-user",
+    "content": "Thông tin",
+    "link": "/profile"
+  },
+  {
+    "icon": "bx bx-log-out-circle bx-rotate-180",
+    "content": "Đăng xuất",
+    "link": "/logout"
+  }
+]
